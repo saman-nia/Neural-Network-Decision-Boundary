@@ -1,6 +1,6 @@
 # Image Processing Analysis
 
-# eural Network Decision Boundary:
+# Neural Network Decision Boundary:
 I will explain the question through a simpler representation called a Threshold Logic Unit.
 1. A set of connection between neurons gives an activations from other neurons.
 2. In the circle of above shape, the unit sums the inputs, and then applies a non-linear activation function.
